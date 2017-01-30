@@ -7,7 +7,7 @@
 #define FIXMATH_NO_CACHE
 //#define FIXMATH_NO_OVERFLOW
 //#define FIXMATH_NO_ROUNDING
-#define FIXMATH_FAST_SIN
+//#define FIXMATH_FAST_SIN
 //#define FIXMATH_SIN_LUT
 
 
